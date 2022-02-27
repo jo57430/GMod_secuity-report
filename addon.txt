@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "[Studio FCS] Secuity Report"
+	"author_name" "Studio FCS [Jo57430]"
+	"info" "{ 	"description": "ID:0028 Secuity Report", 	"type": "tool", 	"tags": [ 		"realism", 		"roleplay" 	] }"
+}
